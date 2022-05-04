@@ -11,9 +11,9 @@
 <div style="display: inline_block"><br>  
   <img src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/64/000000/external-rpa-digital-transformation-parzival-1997-flat-parzival-1997.png"/>
   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-robotics-industry-flaticons-flat-flat-icons.png"/>
+  <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/>
 </div>  
   
 </br>  
