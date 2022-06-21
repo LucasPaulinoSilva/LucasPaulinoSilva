@@ -1,7 +1,8 @@
 ## Olá, meu nome é Lucas! ##
 
-🤖 Developer RPA (Robotic Process Automation) - Automation Anywhere   
-📚 Aprendendo Python, JavaScript, C#   
+<div align="center">
+🤖 Developer RPA (Robotic Process Automation) - Automation Anywhere   <br>
+📚 Aprendendo Python, JavaScript, C#   <br>
 📫 Contato: lucas.paulino100@gmail.com  
 
 <div align="center">
