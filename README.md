@@ -13,6 +13,12 @@
 </br>
 
 <div align="center">
+ Tecnologias que utilizo:
+ <br>
+ RPA | SQL | VBScript | Python | JavaScript
+     
+
+<div align="center">
 <div style="display: inline_block"><br>  
   <img src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/64/000000/external-rpa-digital-transformation-parzival-1997-flat-parzival-1997.png"/>
   <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/>
