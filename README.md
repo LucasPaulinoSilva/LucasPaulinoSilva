@@ -4,7 +4,7 @@
 </div>
 
 ---
-👷 Engineer Electrical  
+👷 Electrical Engineer   
 🤖 Developer RPA (Robotic Process Automation) - Automation Anywhere  
 📚 Aprendendo Python, JavaScript, C#   
 📫 Contato: lucas.paulino100@gmail.com  
