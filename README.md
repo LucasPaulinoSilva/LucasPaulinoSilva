@@ -1,10 +1,15 @@
-## Olá, meu nome é Lucas! ##
+<div align="center">
+  
+# Olá, meu nome é Lucas! 
+</div>
 
+---
 👷 Engineer Electrical  
 🤖 Developer RPA (Robotic Process Automation) - Automation Anywhere  
 📚 Aprendendo Python, JavaScript, C#   
 📫 Contato: lucas.paulino100@gmail.com  
-
+  
+---  
 <div align="center">
   <a href="https://github.com/lucaspaulinosilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPaulinoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,7 +23,6 @@
  <br>
  RPA | SQL | VBScript | Python | JavaScript | C#
      
-
 <div align="center">
 <div style="display: inline_block"><br>  
   <img src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/48/000000/external-rpa-digital-transformation-parzival-1997-flat-parzival-1997.png"/>
@@ -31,6 +35,7 @@
   
 </br>  
 
+---
 <div>   
   <a href="https://instagram.com/lucas.ps96" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucaspds16" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
