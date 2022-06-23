@@ -1,6 +1,6 @@
 ## Olá, meu nome é Lucas! ##
 
-👷 Engineer Electrical
+👷 Engineer Electrical  
 🤖 Developer RPA (Robotic Process Automation) - Automation Anywhere  
 📚 Aprendendo Python, JavaScript, C#   
 📫 Contato: lucas.paulino100@gmail.com  
