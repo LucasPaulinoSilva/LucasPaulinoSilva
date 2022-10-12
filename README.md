@@ -1,3 +1,5 @@
+<img src = "dev.gif" width = "500px" align = "right">
+
 <div align="center">
   
 # Olá, meu nome é Lucas! 
@@ -5,7 +7,6 @@
 </div>
 
 ---
-<img src = "dev.gif" width = "200px" align = "right">
 
 👷 Electrical Engineer   
 🤖 Developer RPA (Robotic Process Automation)  
