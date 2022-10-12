@@ -1,5 +1,3 @@
-<img src = "dev.gif" width = "150px" align = "right"> <img src = "dev.gif" width = "150px" align = "left">
-
 <div align="center">
   
 # Olá, meu nome é Lucas! 
