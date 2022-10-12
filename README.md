@@ -7,7 +7,7 @@
 </div>
 
 ---
-
+<img src = "neon-spiderman.gif" width = "180px" align = "right">
 
 
 👷 Electrical Engineer   
