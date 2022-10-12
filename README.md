@@ -1,11 +1,15 @@
-<img src = "dev.gif" width = "520px" align = "right">
+<img src = "dev.gif" width = "150px" align = "right"> <img src = "dev.gif" width = "150px" align = "left">
 
 <div align="center">
   
 # Olá, meu nome é Lucas! 
+
 </div>
 
 ---
+
+
+
 👷 Electrical Engineer   
 🤖 Developer RPA (Robotic Process Automation)  
 📚 Aprendendo Python, JavaScript, C#   
