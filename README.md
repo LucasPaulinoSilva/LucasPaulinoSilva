@@ -7,6 +7,7 @@
 </div>
 
 ---
+<img src = "dev.gif" width = "229px" align = "right">
 
 👷 Electrical Engineer   
 🤖 Developer RPA (Robotic Process Automation)  
