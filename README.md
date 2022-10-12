@@ -7,14 +7,12 @@
 </div>
 
 ---
-<img src = "dev.gif" width = "285px" align = "right">
+<img src = "dev.gif" width = "200px" align = "right">
 
 👷 Electrical Engineer   
 🤖 Developer RPA (Robotic Process Automation)  
 📚 Aprendendo Python, JavaScript, C#   
 📫 Contato: lucas.paulino100@gmail.com  
-
-<br>
 
 ---  
 <div align="center">
