@@ -32,8 +32,8 @@
   <img src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/48/000000/external-rpa-digital-transformation-parzival-1997-flat-parzival-1997.png"/>
   <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/48/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/>
   <img src="https://img.icons8.com/external-others-iconmarket/48/000000/external-vb-file-types-others-iconmarket-2.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/56/null/java-coffee-cup-logo--v1.png"/>
 </div>  
