@@ -10,7 +10,7 @@
 
 👷 Electrical Engineer   
 🤖 Developer RPA (Robotic Process Automation)  
-📚 Aprendendo Python, JavaScript, C#   
+📚 Aprendendo Python, Java, C#   
 📫 Contato: lucas.paulino100@gmail.com  
 
 ---  
