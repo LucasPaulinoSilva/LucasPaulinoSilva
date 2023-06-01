@@ -23,7 +23,7 @@
 </br>
 
 <div align="center">
- Tecnologias e aplicações que utilizo:
+ Tecnologias e soluções que utilizo:
  <br>
  RPA | SQL | VBScript | JavaScript | Python | C# | Java
      
