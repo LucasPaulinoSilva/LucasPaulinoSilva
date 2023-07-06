@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# Olá, meu nome é Lucas!! 
+# Olá, meu nome é Lucas! 
 
 </div>
 
