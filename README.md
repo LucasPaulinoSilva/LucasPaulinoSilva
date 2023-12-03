@@ -34,7 +34,6 @@
   <img src="https://img.icons8.com/external-others-iconmarket/48/000000/external-vb-file-types-others-iconmarket-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/56/null/java-coffee-cup-logo--v1.png"/>
 </div>  
 
