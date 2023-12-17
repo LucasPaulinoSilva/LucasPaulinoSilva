@@ -25,7 +25,7 @@
 <div align="center">
  Tecnologias e soluções que utilizo:
  <br>
- RPA | SQL | VBScript | JavaScript | Python | C# | Java
+ RPA | SQL | VBScript | JavaScript | Python | Java
      
 <div align="center">
 <div style="display: inline_block"><br>  
