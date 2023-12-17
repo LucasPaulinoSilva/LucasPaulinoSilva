@@ -11,6 +11,7 @@
 👷 Electrical Engineer   
 🤖 Developer RPA (Robotic Process Automation)  
 📫 Contato: lucas.paulino100@gmail.com  
+💼 Linkedin: linkedin.com/in/lucaspaulinosilva  
 
 ---  
 <div align="center">
